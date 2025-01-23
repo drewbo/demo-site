@@ -1,12 +1,10 @@
 ---
-title: A very long blog header that has a lot of detail but is still relevant
-description: This post has a long header
+title: Second page
+description: The second page as it says
 layout: layouts/post
-date: 2022-01-14
-author: Abraham Lincoln
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
-image: hire-us.jpg
-image_alt_text: Hire Us
+date: 2025-01-21
+author: Thomas Jefferson
+excerpt: This is an excerpt for second page
 tags:
   - posts
 ---

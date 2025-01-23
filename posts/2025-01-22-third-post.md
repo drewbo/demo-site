@@ -2,8 +2,8 @@
 title: Third page
 description: No confusion here, this is the third page
 layout: layouts/post
-date: 2021-01-16
-author: Benjamin Franklin
+date: 2025-01-22
+author: Theodore Roosevelt
 excerpt: This is an excerpt for second page
 tags:
   - posts
